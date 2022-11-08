@@ -24,3 +24,5 @@ The target needs to be a ".asm" file and the output will be a ".hack" file
 To test the assembler load both the target file and the output of running the
 assembler with the target file to the Assembler (tool provided), then the
 Assembler will compare the the suplied output is valid.
+
+![image](https://user-images.githubusercontent.com/65885245/200493260-affa5057-4073-4d24-8d82-d4a7c7f39564.png)
